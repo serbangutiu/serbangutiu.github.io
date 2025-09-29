@@ -1,7 +1,8 @@
 
 ---
-title: Serban Gutiu
-permalink: /serbangutiu/
+title: "Serban Gutiu"
+permalink: /
+author_profile: true
 ---
 
 # Serban Gutiu
